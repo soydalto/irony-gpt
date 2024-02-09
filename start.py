@@ -53,4 +53,6 @@ while True:
 
     print(sentimiento)
 
+    print("hola dalto")
+
     
